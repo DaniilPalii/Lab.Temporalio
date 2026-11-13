@@ -4,6 +4,8 @@
 		<TargetFramework>net11.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
+		<AssemblyName>TemporalioLab.Workflows</AssemblyName>
+		<RootNamespace>TemporalioLab.Workflows</RootNamespace>
 	</PropertyGroup>
 
 	<ItemGroup>

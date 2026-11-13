@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="TemporalioLab.Client/TemporalioLab.Client.csproj" />
   <Project Path="TemporalioLab.Worker/TemporalioLab.Worker.csproj" />
-  <Project Path="TemporalioLab.Workflow/TemporalioLab.Workflow.csproj" />
+  <Project Path="TemporalioLab.Workflows/TemporalioLab.Workflows.csproj" />
 </Solution>
